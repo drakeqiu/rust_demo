@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let mut s = String::from("lo");
+    s.push('l');
 }
